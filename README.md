@@ -36,7 +36,7 @@
 <hr>
 
 #### GitHub stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gn-bcampbell&" alt="gn-bcampbell" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=gn-bcampbell&theme=synthwave&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="gn-bcampbell" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gn-bcampbell&show_icons=true&locale=en&layout=compact" alt="gn-bcampbell" /></p>
 
 
