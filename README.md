@@ -6,7 +6,7 @@
 #### About me
 - 📍 I’m currently working for PA Consulting with some super talented people
 - 🌱 I’m upskilling with JavaScript, AWS, and NodeJS
-- 👨🏼‍💻 My current side projects are building on [Create T3 App](https://create.t3.gg/) for; full stack, type safe apps, using tRPC, Prisma, React, and NextJS
+- 👨🏼‍💻 I'm using [Create T3 App](https://create.t3.gg/) on side projects for: full stack, type safe apps, using tRPC, Prisma, React, and NextJS
 - 📫 Looking to get in touch? Ping me [here 📧](https://brendancampbell.dev)
 
 <hr>
